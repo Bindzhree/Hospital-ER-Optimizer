@@ -115,7 +115,7 @@ Reduces waiting time and improves ER efficiency.
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ERFlow-AI.git
+git clone https://github.com/Bindzhree/Hospital-ER-Optimizer.git
 ```
 
 Move into folder:
